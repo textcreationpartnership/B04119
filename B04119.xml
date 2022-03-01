@@ -1,0 +1,332 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A lamentable ballad of the ladies fall. Declaring how a gentlewoman through her too much trust came to her end, and how her lover slew himself. The tune is, In pescod time.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674-1679?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04119</idno>
+            <idno type="STC">Wing L261_VARIANT</idno>
+            <idno type="STC">Interim Tract Supplement Guide BR f 821.04 B49[30]</idno>
+            <idno type="EEBO-CITATION">99887560</idno>
+            <idno type="PROQUEST">ocm99887560</idno>
+            <idno type="VID">182288</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04119)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182288)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A3:3[32])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A lamentable ballad of the ladies fall. Declaring how a gentlewoman through her too much trust came to her end, and how her lover slew himself. The tune is, In pescod time.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Coles, T. Vere, I. Wright, and I. Clarke.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[between 1674-1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Verse: "Mark well my heavy doleful tale ..."</note>
+                  <note>Imperfect: mutilated.</note>
+                  <note>In this edition,imprint reads ... I. Wright and I.Clarke.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:182288:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 8 -->
+            <head>A Lamentable Ballad of the Ladies Fall.</head>
+            <head type="sub">Declaring how a Gentlewomen through her too much truſt came to her end, and how her Lover ſlew himſelf.</head>
+            <opener>The Tune is, In Peſcod time.</opener>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>MArk well my heavy doleful Tale,</l>
+               <l>you Loyal Lovers all.</l>
+               <l>And héedfully bear in your breaſt</l>
+               <l>a gallant Ladies fall:</l>
+               <l>Long was ſhe woo'd e're ſhe was won,</l>
+               <l>to lead a wedded life,</l>
+               <l>But folly wrought her overthrow,</l>
+               <l>before ſhe was a wife.</l>
+            </lg>
+            <lg>
+               <l>Too ſoon alas ſhe gave conſent</l>
+               <l>to yield unto his will,</l>
+               <l>Though he proteſted to be true,</l>
+               <l>and faithful to her ſtill:</l>
+               <l>She felt her body altered quite,</l>
+               <l>her bright hue waxed pale,</l>
+               <l>Her fair red chéeks turn'd colour white,</l>
+               <l>her ſtrength began to fail.</l>
+            </lg>
+            <lg>
+               <l>So that with many a ſorrowful ſigh,</l>
+               <l>this beautious Maiden mild,</l>
+               <l>With grievous heart perceiv'd her ſelf</l>
+               <l>to be conceiv'd with Child:</l>
+               <l>She kept it from her fathers ſight,</l>
+               <l>as cloſe as cloſe might be,</l>
+               <l>And ſo put on her ſilken gown,</l>
+               <l>none might her ſwelling ſee.</l>
+            </lg>
+            <lg>
+               <l>Vnto her Lover ſecretly</l>
+               <l>ſhe did her ſelf bewray,</l>
+               <l>And walking with him hand in hand,</l>
+               <l>theſe words to him him did ſay:</l>
+               <l>Behold, ſaid ſhe, a Maids diſtreſs,</l>
+               <l>my love, brought to thy how,</l>
+               <l>Behold I go with Child by thee,</l>
+               <l>but none thereof doth know.</l>
+            </lg>
+            <lg>
+               <l>The little Babe ſprings in my womb</l>
+               <l>to hear the Fathers voice,</l>
+               <l>Let it not be a Baſtard call'd</l>
+               <l>ſith I made thee my choice:</l>
+               <l>Come, come, my love, perform thy vow</l>
+               <l>and wed me out of hand,</l>
+               <l>O leave me not in this extream,</l>
+               <l>in grief alwayes to ſtand.</l>
+            </lg>
+            <lg>
+               <l>Think on thy former promiſe made,</l>
+               <l>thy vows and oaths each one,</l>
+               <l>Remember with what bitter tears</l>
+               <l>to me thou mad'ſt thy moan:</l>
+               <l>Convey me to ſome ſecret place,</l>
+               <l>and marry me with ſpeed,</l>
+               <l>Or with thy Rapier end my life,</l>
+               <l>e're further ſhame procéed.</l>
+            </lg>
+            <lg>
+               <l>Alas my deareſt Love, quoth he,</l>
+               <l>my greateſt joy on earth,</l>
+               <l>Which way can I convey thée hence,</l>
+               <l>without a ſudden Death.</l>
+               <l>Thy friends they be of high degrée,</l>
+               <l>and I of mean eſtate,</l>
+               <l>Full hard it is to get thée forth</l>
+               <l>out of thy Fathers gate.</l>
+            </lg>
+            <lg>
+               <l>Dread not thy ſelf to ſave my fame;</l>
+               <l>and if thou taken be,</l>
+               <l>My ſelf will ſtep between the Swords,</l>
+               <l>and take the harm on me:</l>
+               <l>So ſhall I ſcape Diſhonour quite,</l>
+               <l>If ſo I ſhould be ſlain,</l>
+               <l>What could they ſay? but that true love</l>
+               <l>did work a Ladies Bane.</l>
+            </lg>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>ANd not fear any further harm,</l>
+               <l>my ſelf will ſo deviſe,</l>
+               <l>That I will go away with thee,</l>
+               <l>unſeen of mortal eyes:</l>
+               <l>Diſguiſed like ſome pritty Page,</l>
+               <l>I'le meet thee in the dark,</l>
+               <l>And all alone I'le come to thee,</l>
+               <l>hard by my Fathers Park.</l>
+            </lg>
+            <lg>
+               <l>And there, quoth be, I'le meet my love,</l>
+               <l>If God do lend me life,</l>
+               <l>And this day month without all fail,</l>
+               <l>I will make thee my wife:</l>
+               <l>Then with a ſweet and loving kiſs,</l>
+               <l>the parted preſently,</l>
+               <l>And at their parting briniſh tears,</l>
+               <l>ſtood in each others eye.</l>
+            </lg>
+            <lg>
+               <l>At length the wiſhed day was come,</l>
+               <l>whereby this lovely Maid,</l>
+               <l>With lovely eyes, and ſtrange attire,</l>
+               <l>for her true lover ſtaid:</l>
+               <l>When any perſon ſhe eſpy'd,</l>
+               <l>come riding o're the plain,</l>
+               <l>She thought it was her own true love,</l>
+               <l>but all her hopes were vain.</l>
+            </lg>
+            <lg>
+               <l>Then did ſhe weep and ſore bewail,</l>
+               <l>her moſt unhappy ſtate,</l>
+               <l>Then did ſhe ſpeak theſe woful words,</l>
+               <l>when ſuccourleſs ſhe ſat:</l>
+               <l>O falſe forſworn and faithleſs wretch,</l>
+               <l>diſloyal to thy love,</l>
+               <l>Ha<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> thou forgot thy promiſe made,</l>
+               <l>and wilt thou perſue'd prove.</l>
+            </lg>
+            <lg>
+               <l>And eaſt thou now forſaken me,</l>
+               <l>in this my great diſtreſs,</l>
+               <l>To end my days in open ſhame,</l>
+               <l>which thou might'ſt well redreſs:</l>
+               <l>Wo worth the time I did believe,</l>
+               <l>That flattering tongue of thine,</l>
+               <l>Would God that I had never ſeen,</l>
+               <l>the teard of thy falſe Eyne.</l>
+            </lg>
+            <lg>
+               <l>And thus with many a ſorrowful ſigh,</l>
+               <l>homewards ſhe went again,</l>
+               <l>No reſt came in her watry Eyes,</l>
+               <l>ſhe felt ſuch bitter pain.</l>
+               <l>In travel ſtrong ſhe fell that night,</l>
+               <l>with many a bitter throw,</l>
+               <l>What woful pangs ſhe felt that night,</l>
+               <l>doth each good woman know.</l>
+            </lg>
+            <lg>
+               <l>She called up her waiting Maid,</l>
+               <l>that lay at her Beds ſeet,</l>
+               <l>Who muſing at her M<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtris woe,</l>
+               <l>did ſtrait begin to weep:</l>
+               <l>Weep not, ſaid ſhe, but ſhut the door,</l>
+               <l>and windows round about,</l>
+               <l>Let none bewail my wretched caſe,</l>
+               <l>but keep all perſons out.</l>
+            </lg>
+            <lg>
+               <l>O Miſtris call your Mother dear,</l>
+               <l>of women you have need,</l>
+               <l>And of ſome skilful Mid-wives help,</l>
+               <l>the better you may ſpeed:</l>
+               <l>Call not my Mother for thy life,</l>
+               <l>nor call no women here,</l>
+               <l>Tho Mid-wives help comes now too late,</l>
+               <l>my death I do not fear.</l>
+            </lg>
+            <lg>
+               <l>With that the Babe ſprang in her Womb,</l>
+               <l>no Creature being nigh,</l>
+               <l>And with a ſigh that broke her heart,</l>
+               <l>this gallant Dame did dye:</l>
+               <l>This living little Infant young,</l>
+               <l>the mother being dead,</l>
+               <l>Reſign'd his new received breath,</l>
+               <l>to him that had him made.</l>
+            </lg>
+            <lg>
+               <l>Next morning came her Lover true</l>
+               <l>affrighted at this news,</l>
+               <l>And he for ſorrow ſlew himſelf,</l>
+               <l>whom each one did accuſe:</l>
+               <l>The mother with the new born Bebe,</l>
+               <l>were both laid in one grave,</l>
+               <l>Their Parents overcome with wooe,</l>
+               <l>no joy of them could have.</l>
+            </lg>
+            <lg>
+               <l>Take heed you vainty Damoſels all,</l>
+               <l>of flattering words beware,</l>
+               <l>And of the honour of your name,</l>
+               <l>have you a ſpecial care:</l>
+               <l>Too true alas this ſtory is,</l>
+               <l>as many one can tell.</l>
+               <l>By others harms learn to be wiſe;</l>
+               <l>and thou ſhalt do full well.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for F. Coles, T. Vere, I. Wright, and I. Clarke.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
